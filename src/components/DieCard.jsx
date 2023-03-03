@@ -1,5 +1,5 @@
 export default function DieCard(props) {
-  const styles= props.isSelected ? "bg-green-400" : "bg-white"
+  const styles = props.isSelected ? "bg-green-400" : "bg-white";
   return (
     <div
       className={`py-2 px-4 shadow-md rounded-md cursor-pointer ${styles}`}

@@ -7,9 +7,9 @@ module.exports = {
         darkblue: "#0b2434",
         lightyellow: "#f5f5f5",
       },
-      spacing:{
-        90:"22.5rem"
-      }
+      spacing: {
+        90: "22.5rem",
+      },
     },
   },
   plugins: [],
